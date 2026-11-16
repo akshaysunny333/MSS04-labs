@@ -1,2 +1,2 @@
 # MSS04-labs
-MSS 04 Advanced Programming
+MSS 04 Advanced Programming Exercises
